@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=junhyeukkwon&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeukkwon&layout=compact&theme=vue&hide_border=true" />
 
-<!--
-**junhyeukkwon/junhyeukkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
