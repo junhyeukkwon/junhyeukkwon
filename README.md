@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## My otherthing
-<a href="https://www.instagram.com/jp_kang0425/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="http:jpk0425.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tstory-%23E4405F?style=for-the-badge&logo=Tstory&logoColor=white" target="_blank"></a>
-<a href="http://velog.io/@fingercompliment" target="_blank"><img src="https://img.shields.io/badge/-Velog-%23E4405F?style=for-the-badge&logo=Velog&logoColor=white" target="_blank"></a></a>
+<a href="https://www.instagram.com/joonivalue/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://joonivalue.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tstory-%23E4405F?style=for-the-badge&logo=Tstory&logoColor=white" target="_blank"></a>
+<a href="https://www.notion.so/JackJack-2f69ebf25aa4417dab8a3edac8cc0394" target="_blank"><img src="https://img.shields.io/badge/-Notion-%23E4405F?style=for-the-badge&logo=Notion&logoColor=white" target="_blank"></a></a>
 
 ---
 
