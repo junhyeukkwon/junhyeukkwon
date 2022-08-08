@@ -2,6 +2,9 @@
 ### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like Python, Java, and Javascript.<br/>
+docker, django<br/>
+machinine learning, deep learning<br/>
+
 <!-- Add a links-->
 📫 How to reach me: bearjoon2855@gmail.com <br/>
 
