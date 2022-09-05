@@ -22,7 +22,7 @@ machinine learning, deep learning<br/>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
    ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white) 
    ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-   ![SQL](https://img.shields.io/badge/-sql-3776AB?style=for-the-badge&logo=sql&logoColor=white)
+   ![SQL](https://img.shields.io/badge/-sql-3776AB?style=for-the-badge&logo=mysql&logoColor=white)
   
 ---
 
