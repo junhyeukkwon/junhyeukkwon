@@ -24,8 +24,6 @@ machinine learning, deep learning<br/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=ffffff">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2E51A2?style=for-the-badge&logo=MySQL&logoColor=ffffff">
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=ffffff">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white) 
   <br>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=f89400">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
@@ -61,12 +59,4 @@ machinine learning, deep learning<br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=junhyeukkwon&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeukkwon&layout=compact&theme=vue&hide_border=true" />
-
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning springboot, next.js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
